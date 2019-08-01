@@ -1,3 +1,5 @@
 {
-    "workbench.colorCustomizations": {}
+    "workbench.colorCustomizations": {},
+    "appService.defaultWebAppToDeploy": "/subscriptions/9fc7a8bf-8003-4295-ad24-db587651a9f6/resourceGroups/Paylocity/providers/Microsoft.Web/sites/TonyaBucketlist",
+    "appService.deploySubpath": "dist\\angular-crash-todolist"
 }
